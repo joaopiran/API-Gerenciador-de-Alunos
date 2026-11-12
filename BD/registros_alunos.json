@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 3,
+    "matricula": "2026B05",
+    "nome": "LUIS FERNANDES",
+    "turma": "3B",
+    "data": "2026-10-24",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 10,
+    "alertaTempo": false
+  },
+  {
+    "id": 4,
+    "matricula": "2026C90",
+    "nome": "MARIA EDUARDA",
+    "turma": "2A",
+    "data": "2026-10-26",
+    "presente": true,
+    "motivoSaida": "BIBLIOTECA",
+    "minutosFora": 12,
+    "alertaTempo": false
+  },
+  {
+    "id": 5,
+    "matricula": "2026E24",
+    "nome": "ENZO CORDEIRO",
+    "turma": "3B",
+    "data": "2026-10-28",
+    "presente": true,
+    "motivoSaida": "CORDENAÇÃO",
+    "minutosFora": 17,
+    "alertaTempo": false
+  },
+  {
+    "id": 6,
+    "matricula": "2026B97",
+    "nome": "MURILO",
+    "turma": "3B",
+    "data": "2026-11-12",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 15,
+    "alertaTempo": true
+  },
+  {
+    "id": 8,
+    "matricula": "2026B97",
+    "nome": "CARLOS",
+    "turma": "3A",
+    "data": "2026-11-12",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 11,
+    "alertaTempo": true
+  }
+]
